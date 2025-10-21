@@ -3,3 +3,4 @@
 ### A list of sample playbooks
 
 - Legal Requirement for Data Loss
+- Threat Hunt
