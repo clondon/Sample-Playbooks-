@@ -1,0 +1,39 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Build and Dependencies (if any tooling is added)
+node_modules/
+dist/
+build/
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Local Environment Files
+.env
+.env.local
+.envrc
